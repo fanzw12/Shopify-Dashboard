@@ -1,5 +1,4 @@
 # Shopify-Dashboard
-# Shopify Sales Analysis Dashboard
 
 ## Project Overview
 This project analyzes Shopify sales data using Microsoft Power BI to understand transaction performance, customer purchasing behavior, and customer retention. The interactive dashboard helps users explore sales trends, identify top-performing regions, and evaluate customer value to support data-driven decision-making.
@@ -49,7 +48,7 @@ This project analyzes Shopify sales data using Microsoft Power BI to understand 
 7. Insights Generation
 
 ## Dashboard Preview
-![Shopify Dashboard Overview](screenshots/overview.png)
+[![Shopify Dashboard Overview](screenshots/overview.png)](screenshots/overview.png)
 
 ## Project Files
 - `Shopify_Dashboard.pbix` — Power BI dashboard file.
